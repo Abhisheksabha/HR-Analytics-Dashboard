@@ -1,6 +1,10 @@
 # HR-Analytics-Dashboard
 HR Analytics Dashboard using Power BI
+
 ![HR Analytics Dashboard](https://github.com/Abhisheksabha/HR-Analytics-Dashboard/blob/main/Screenshot%20(58).png)
+
+--------------------------------------------------------------------------------------
+
 Objective: HR wants to indentify cause of attrition of company in detail.
 
 --------------------------------------------------------------------------------------
